@@ -21,38 +21,11 @@
 
 > [官网论坛](https://bbs.halo.run) | [QQ 交流群](https://jq.qq.com/?_wv=1027&k=5tnr930) | [Telegram 交流群](https://t.me/HaloBlog) | [Telegram 频道](https://t.me/halo_dev) | [WeHalo 小程序](https://github.com/aquanlerou/WeHalo)。
 
-## 快速开始
 
-### 下载最新的 Halo 安装包
+## 说明
 
-```bash
-curl -L https://github.com/halo-dev/halo/releases/download/v1.0.0/halo-1.0.0.jar --output halo-latest.jar
-```
-
-或者
-
-```bash
-wget https://github.com/halo-dev/halo/releases/download/v1.0.0/halo-1.0.0.jar -O halo-latest.jar
-```
-
-### 启动 Halo
-
-```bash
-nohup java -jar halo-latest.jar &
-```
-
-详细文档请移步：<https://halo.run/docs>
-
-## 博客示例
-
-请移步： <https://github.com/halo-dev/halo/issues/26>。
-
-## 周边
-
-- 后台管理（halo-admin）：<https://github.com/halo-dev/halo-admin>
-- 独立评论模块（halo-comment）：<https://github.com/halo-dev/halo-comment>
-- 管理 APP（halo-app）：<https://github.com/halo-dev/halo-app>
-- 主题仓库：<https://halo.run/theme>
+- halo-desc项目是针对个人的学习项目，针对原作者的halo开源项目做一些解释性的描述
+- 如有错误，纯属正常，见谅
 
 ## 许可证
 
@@ -60,13 +33,6 @@ nohup java -jar halo-latest.jar &
 
 > Halo 使用 GPL-v3.0 协议开源，请尽量遵守开源协议，即便是在中国。
 
-## 捐赠
-
-> 如果 Halo 对你有帮助，可以请作者喝杯☕️。
-
-| 支付宝/微信/QQ  |
-| :------------: |
-| <img src="https://i.loli.net/2018/12/23/5c1f68ce9b884.png" width="200"/>  |
 
 ## 预览图
 
