@@ -1,6 +1,8 @@
 <h1 align="center"><a href="https://github.com/halo-dev" target="_blank">Halo</a></h1>
 
 > Halo 是一款现代化的个人独立博客系统，给习惯写博客的同学一个更好的选择。
+>
+> Halo-desc是针对个人的学习解释项目，尽量做到剖析Halo项目的工作
 
 <p align="center">
 <a href="#"><img alt="JDK" src="https://img.shields.io/badge/JDK-1.8-yellow.svg?style=flat-square"/></a>
@@ -11,7 +13,7 @@
 <a href="https://travis-ci.org/halo-dev/halo"><img alt="Travis CI" src="https://img.shields.io/travis/halo-dev/halo.svg?style=flat-square"/></a>
 </p>
 
-------------------------------
+
 
 ## 简介
 
