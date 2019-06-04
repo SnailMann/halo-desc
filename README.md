@@ -2,7 +2,7 @@
 
 > Halo 是一款现代化的个人独立博客系统，给习惯写博客的同学一个更好的选择。
 >
-> Halo-desc是针对个人的学习解释项目，尽量做到剖析Halo项目的工作
+> Halo-Desc是针对个人的学习解释项目，尽量做到剖析Halo项目的工作
 
 <p align="center">
 <a href="#"><img alt="JDK" src="https://img.shields.io/badge/JDK-1.8-yellow.svg?style=flat-square"/></a>
@@ -26,7 +26,7 @@
 
 ## 说明
 
-- halo-desc项目是针对个人的学习项目，针对原作者的halo开源项目做一些解释性的描述
+- Halo-Desc项目是针对个人的学习项目，针对原作者的halo开源项目做一些解释性的描述
 - 如有错误，纯属正常，见谅
 
 ## 许可证
